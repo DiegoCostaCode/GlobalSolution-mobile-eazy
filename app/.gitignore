@@ -1,1 +1,3 @@
 /build
+**/secrets.properties
+**/xml/network_security_config.xml
