@@ -46,11 +46,23 @@ Até este momento de desenvolvimento, foram feitas **4 telas** .
 ## 1 - Tela de cadastro de usuário
 Campos requisitados pelo backend para criar usuário: Nome, E-mail, Telefone, Estado e Senha.
 
+![image](https://github.com/user-attachments/assets/71faa7f5-1e9a-45e6-8508-56e7e2192c9a)
+
+
 ## 2 - Tela de login
 Campo para fazer login de usuário, são necessários fazer input de E-mail e Login. O Login é gerenciado pelo Java, do backend.
+
+![image](https://github.com/user-attachments/assets/aea5cbba-4f4d-42d9-90e2-a277150a0339)
+
 
 ## 3 - Tela de home
 Como o nome já diz, é a responsável por apresentar ou, ser o ponto de partida para o usuário explorar as funcionalidades do aplicativo.
 
+![image](https://github.com/user-attachments/assets/9ccdbab8-54bb-41dc-9aa8-09cbd3ca4f31)
+
+
 ## 4 - Tela de contas
 Esta tela é responsável por fazer CRUD de contas do usuário. É uma lista, que você adicionar os itens, que requerem Valor kwh gasto, valor em R$ gasto, e a data da conta. E claro, este CRUD é físico, refletindo no backend Java feito.
+
+![image](https://github.com/user-attachments/assets/6d7bbccd-2f1f-47df-81ba-2efec49e9c70)
+
