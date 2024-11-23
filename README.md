@@ -31,7 +31,7 @@ A usabilidade é um dos principais focos do projeto: nossa aplicação foi proje
 
 Você pode ver o nosso Pitch aqui: [pitch](https://www.youtube.com/watch?v=l5fuZtikMCA&list=PLNpYt22sUw3VJftQ8ltlV-7C0Aayi30p3&index=1)
 
-Video testando o app: [teste app](https://www.youtube.com/watch?v=l5fuZtikMCA&list=PLNpYt22sUw3VJftQ8ltlV-7C0Aayi30p3&index=1)
+Video testando o app: [testando aplicação](https://www.youtube.com/watch?v=Bl1T3S0w6WM)
 
 Backend: [Java - Github](https://github.com/DiegoCostaCode/GlobalSolution-Eazy-Java)
 
